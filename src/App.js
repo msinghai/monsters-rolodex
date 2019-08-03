@@ -12,7 +12,7 @@ class App extends Component {
       monsters: [],
       searchField: ""
     };
-    //this.getChangeEvent = this.getChangeEvent.bind(this);
+    //this.getChangeEvent = this.getChangeEvent.bind(this); Very important
   }
 
   componentDidMount() {
